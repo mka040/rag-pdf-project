@@ -21,3 +21,7 @@ similarity search, and answer questions with a RAG agent.
 Open the notebooks in a Databricks workspace and run them in numbered order
 (1 -> 7). The notebooks use Databricks-native services (Unity Catalog,
 Databricks vector search) for storage, indexing, and retrieval.
+
+## Author
+
+Manish Acharya — built as a hands-on RAG implementation on Databricks.
